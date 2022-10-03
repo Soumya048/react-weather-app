@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React Weather Application ![Badge](https://visitor-counter-badge.vercel.app/api/Soumya048/react-weather-app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
